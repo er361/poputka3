@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#0039cb</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="trans">#00D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="shadow">#4D4D4D</color>
+    <color name="primaryAlfa">#A62962FF</color>
+    <color name="primaryText">#222222</color>
+    <color name="secondaryText">#474747</color>
+    <color name="mapLand">#d6e1e3</color>
+</resources>
